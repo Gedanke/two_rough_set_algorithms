@@ -15,3 +15,7 @@ python main.py
 ```python
 python main.py
 ```
+
+对其中两个算法进行了改进，参考新仓库：
+
+[https://github.com/Gedanke/rough_set_algorithms](https://github.com/Gedanke/rough_set_algorithms)
